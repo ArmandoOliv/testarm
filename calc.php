@@ -14,7 +14,7 @@
    Valor 1: <input name="a" type="number" value="<? echo $a ?>"/><br />
    Valor 2: <input name="b" type="number" value="<? echo $b ?>"/>
    <br /><br />
-   Selecione uma operação:<br />
+   Selecione uma operação seu mané:<br />
    <input name="operacao" type="radio" value="Soma" />Soma<br />
    <input name="operacao" type="radio" value="Subtração" />Subtração<br />
    <input name="operacao" type="radio" value="Multiplicação" />Multiplicação<br />
